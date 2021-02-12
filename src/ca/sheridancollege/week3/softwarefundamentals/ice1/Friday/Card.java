@@ -7,7 +7,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
 /**
  *
- * @author Ronak
+ * @author Hoora Tavana
  */
 public class Card {
 
